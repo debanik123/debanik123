@@ -1,4 +1,4 @@
-# 👨‍💻 Debanik Roy
+# Debanik Roy
 
 **Robotics Software Engineer**
 
@@ -80,7 +80,7 @@ Proficient in **C++, Python, Node.js**, and experienced with **ROS/ROS 2**, **Do
 
 ---
 
-### 🧪 Sensor Fusion Engineer (Internship)  
+### 🔧 Sensor Fusion Engineer (Internship)  
 **BPC-PI**, West Bengal, India  
 *September 2020 – July 2021*
 
