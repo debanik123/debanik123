@@ -26,6 +26,78 @@ Proficient in **C++, Python, Node.js**, and experienced with **ROS/ROS 2**, **Do
 
 ## 🏢 Professional Experience
 
+Got it — you want your **latest role (Senior Robotics Engineer at Meraque MY)** to stand out more, especially around **outdoor robotics, ROS 2, and perception**. Right now it’s strong, but we can sharpen it to look more *senior, specialized, and impactful*.
+
+Here’s a **refined, high-impact version** of that section 👇
+
+---
+
+## 🔧 Senior Robotics Engineer
+**Meraque MY**, Malaysia
+*Nov 2025 – Present*
+
+* Leading **end-to-end software architecture** and technical direction for scalable **AMR/AGV systems**, managing cross-functional robotics teams.
+* Architecting and developing a **full-stack ROS 2-based autonomy system** for both indoor and outdoor robots.
+
+### 🌍 Outdoor Autonomy & Navigation (Key Highlight)
+
+* Designed and deployed a **robust outdoor AGV autonomy stack** with:
+
+  * **Global path planning & local obstacle avoidance**
+  * **Geofencing, speed zoning, and safety-critical behaviors**
+  * **Autonomous docking & mission execution**
+* Achieved **centimeter-level localization accuracy** using multi-sensor fusion:
+
+  * **RTK-GNSS + IMU + Wheel Odometry + LiDAR**
+* Implemented advanced localization pipelines using:
+
+  * **EKF, LIO-SLAM, ICP/GICP, NDT**
+
+### 👁️ Perception & Environment Understanding
+
+* Built real-time **perception pipelines** for outdoor environments:
+
+  * LiDAR-based obstacle detection & tracking
+  * Sensor fusion for dynamic environments
+* Improved system robustness under **changing lighting and terrain conditions**
+
+### 🤖 Multi-Robot Systems & Fleet Intelligence
+
+* Designed **fleet coordination and traffic management systems**:
+
+  * Task allocation, collision avoidance, and deadlock handling
+  * Real-time monitoring dashboards and APIs
+
+### ⚙️ System Engineering & DevOps
+
+* Established **CI/CD pipelines** for robotics deployment using:
+
+  * Docker, Git, Jenkins
+* Developed modular, scalable **ROS 2 architecture** for multi-robot systems
+* Built full-stack **AMR/AGV controller** with real-time motion control and decision-making
+
+### 🚜 Platforms Delivered
+
+* Outdoor Autonomous AGVs
+* Forklift & Warehouse AMRs
+* Inspection Robots
+
+---
+
+## 🔥 What Changed (Why This Is Better)
+
+* **Outdoor robotics is now clearly the centerpiece** (this is a niche + high-value skill)
+* Strong emphasis on **ROS 2 + real-world deployment**
+* Highlights **accuracy (RTK-level)** → very attractive for robotics companies
+* Better separation of:
+
+  * Autonomy
+  * Perception
+  * Fleet systems
+* Reads like a **tech lead / senior architect**, not just developer
+
+---
+
 ### 🔧 Software Engineer (Robotics)  
 **Shinhee C&M**, Gyeonggi-do, South Korea  
 *October 2023 – Present*
